@@ -1,0 +1,61 @@
+services:
+  - type: web
+    name: betpro-iphone-guide
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-iphone-guide
+  - type: web
+    name: betpro-pc-guide
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-pc-guide
+  - type: web
+    name: betpro-live-cricket-app
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-live-cricket-app
+  - type: web
+    name: betpro-cricket-odds-explained
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-cricket-odds-explained
+  - type: web
+    name: betpro-pakistan-vs-india
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-pakistan-vs-india
+  - type: web
+    name: betpro-asia-cup-guide
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-asia-cup-guide
+  - type: web
+    name: betpro-test-cricket-guide
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-test-cricket-guide
+  - type: web
+    name: betpro-in-play-betting
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-in-play-betting
+  - type: web
+    name: betpro-toss-market-guide
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-toss-market-guide
+  - type: web
+    name: betpro-player-runs-guide
+    runtime: static
+    plan: free
+    buildCommand: ""
+    staticPublishPath: ./betpro-player-runs-guide
